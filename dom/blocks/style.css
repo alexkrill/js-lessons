@@ -1,0 +1,18 @@
+
+.blocks {
+    display: flex;
+}
+
+.controls {
+    margin-bottom: 10px;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
